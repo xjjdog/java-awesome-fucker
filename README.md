@@ -13,7 +13,8 @@
 
 地址：https://github.com/xjjdog/java-awesome-fucker
 
-# 1 、后端技能汇总
+# 正文
+## 1 、后端技能汇总
 
 https://github.com/xjjdog/javaok
 
@@ -21,7 +22,7 @@ https://github.com/xjjdog/javaok
 
 star: 500
 
-# 2、提问的智慧
+## 2、提问的智慧
 
 https://github.com/oldratlee/translations
 
@@ -29,7 +30,7 @@ https://github.com/oldratlee/translations
 
 star:4.7k
 
-# 3、码农技能图谱
+## 3、码农技能图谱
 
 https://github.com/TeamStuQ/skill-map/
 
@@ -37,7 +38,7 @@ https://github.com/TeamStuQ/skill-map/
 
 star:16k
 
-# 4、awesome
+## 4、awesome
 
 https://github.com/sindresorhus/awesome
 
@@ -45,7 +46,7 @@ awesome的根。awesome是令人惊叹的意思，一般在github上带有awesom
 
 star: 118k
 
-# 5、免费中文在线书籍
+## 5、免费中文在线书籍
 
 https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md
 
@@ -57,7 +58,7 @@ https://github.com/justjavac/free-programming-books-zh_CN
 
 关于书籍方面，这里还有一个。
 
-# 6、免费书籍
+## 6、免费书籍
 
 https://github.com/ruanyf/free-books
 
@@ -65,7 +66,7 @@ https://github.com/ruanyf/free-books
 
 star:6.5k 
 
-# 7、行业ppt
+## 7、行业ppt
 https://github.com/0voice/from_coder_to_expert
 
 2019年最新总结，从程序员到CTO，从专业走向卓越，分享大牛企业内部pdf与PPT。属于资料分享类。
@@ -74,7 +75,7 @@ https://github.com/0voice/from_coder_to_expert
 
 star:8.2k
 
-# 8、面试题
+## 8、面试题
 
 https://github.com/0voice/interview_internal_reference
 
@@ -82,7 +83,7 @@ https://github.com/0voice/interview_internal_reference
 
 21.4k
 
-# 9、开发者头条
+## 9、开发者头条
 
 https://github.com/toutiaoio/weekly.manong.io
 
@@ -91,7 +92,7 @@ https://github.com/toutiaoio/weekly.manong.io
 
 1.4k
 
-# 10、学习资源
+## 10、学习资源
 
 https://github.com/francistao/LearningNotes
 
@@ -99,7 +100,7 @@ https://github.com/francistao/LearningNotes
 
 star:11.8k
 
-# 11、基础知识
+## 11、基础知识
 
 https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 
@@ -107,7 +108,7 @@ https://github.com/kdn251/interviews/blob/master/README-zh-cn.md
 
 star:40k
 
-# 12、java核心
+## 12、java核心
 
 https://github.com/crossoverJie/JCSprout
 
@@ -115,7 +116,7 @@ jdk核心知识。从java基础，到基本的架构设计，算是比较系统�
 
 22.7k
 
-# 13、java向导
+## 13、java向导
 
 https://github.com/Snailclimb/JavaGuide
 
@@ -123,7 +124,7 @@ java相关，jdk核心知识。【Java学习+面试指南】 一份涵盖大部�
 
 star:58.7k
 
-# 14、资料汇总
+## 14、资料汇总
 
 https://github.com/aalansehaiyang/technology-talk
 
@@ -131,7 +132,7 @@ https://github.com/aalansehaiyang/technology-talk
 
 star:7.2k
 
-# 15、全栈开发
+## 15、全栈开发
 
 https://github.com/frank-lam/fullstack-tutorial
 
@@ -139,14 +140,14 @@ https://github.com/frank-lam/fullstack-tutorial
 
 star:6.2k
 
-# 16、资料汇总
+## 16、资料汇总
 https://github.com/CyC2018/CS-Notes
 
 比较全面的基础知识。 包括：技术面试必备基础知识、Leetcode 题解、Java、C++、Python、后端面试、操作系统、计算机网络、系统设计。算是比较良心了。
 
 star:81k
 
-# 17、java的linux
+## 17、java的linux
 
 https://github.com/judasn/Linux-Tutorial
 
@@ -154,7 +155,7 @@ https://github.com/judasn/Linux-Tutorial
 
 star:6.5k
 
-# 18、java成神
+## 18、java成神
 
 https://github.com/hollischuang/toBeTopJavaer
 
@@ -162,14 +163,14 @@ Java工程师成神之路。成为顶尖的javaer，干货内容还是不少的�
 
 star:9k
 
-# 19、后端架构图谱
+## 19、后端架构图谱
 https://github.com/xingshaocheng/architect-awesome
 
 后端架构师技术图谱。文章很多，很多文章是外链，可以通过目录看到后端开发的一些进阶内容。
 
 star:38.1k
 
-# 20、资料整理
+## 20、资料整理
 https://github.com/doocs/advanced-java
 
 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识
@@ -177,18 +178,21 @@ https://github.com/doocs/advanced-java
 star:32.7k
 
 
-# 21 、算法
+## 21 、算法
 https://github.com/azl397985856/leetcode
 
 很多开发会疏于算法，这是一个专注于算法领域的仓库。
 
 star:21k
 
-# 22 、简历模版
+## 22 、简历模版
 
 https://github.com/geekcompany/ResumeSample
 
 简历模版。如果你不知道怎么写简历，可以参考一下。
 
 star:19.8k
+
+# End
+快到碗里来。
 
