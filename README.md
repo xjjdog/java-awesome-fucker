@@ -197,7 +197,9 @@ star:19.8k
 
 https://github.com/yifeikong/reverse-interview-zh
 
-你尽量可以是是，但是别报太大希望。
+你尽量可以试试，但是别报太大希望。
+
+star:4.6k 
 
 # End
 快到碗里来。
