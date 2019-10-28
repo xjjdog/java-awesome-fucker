@@ -193,6 +193,12 @@ https://github.com/geekcompany/ResumeSample
 
 star:19.8k
 
+## 23、技术面试最后反问面试官的话
+
+https://github.com/yifeikong/reverse-interview-zh
+
+你尽量可以是是，但是别报太大希望。
+
 # End
 快到碗里来。
 
